@@ -1644,3 +1644,154 @@ cookieStation1_basic
 [2023.11.14-03.44.45:638][839]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/cookie_station1_basic.cookie_station1_basic
 [2023.11.14-03.44.45:638][839]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/conveyer_L.conveyer_L
 [2023.11.14-03.44.45:638][839]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/conveyer_T.conveyer_T
+[2023.11.14-04.11.36:466][ 98]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jehil\OneDrive\Desktop\BlenderLocal\CookieFactory\cookie_station2_basic.fbx)
+[2023.11.14-04.11.36:471][ 98]LogFbx: Loading FBX Scene from C:\Users\jehil\OneDrive\Desktop\BlenderLocal\CookieFactory\cookie_station2_basic.fbx
+[2023.11.14-04.11.36:475][ 98]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.14-04.11.37:639][ 98]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.14-04.11.37:718][ 98]LogFbx: Display: Triangulating static mesh stove
+[2023.11.14-04.11.37:731][ 98]LogStaticMesh: Display: Building static mesh cookie_station2_basic...
+[2023.11.14-04.11.37:738][ 98]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/cookie_station2_basic.cookie_station2_basic
+[2023.11.14-04.11.37:740][ 98]LogStaticMesh: Warning: cookie_station2_basic has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.11.14-04.11.37:740][ 98]LogStaticMesh: Warning: cookie_station2_basic has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.11.14-04.11.37:751][ 98]FBXImport: Warning: cookie_station2_basic has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.11.14-04.11.37:751][ 98]FBXImport: Warning: cookie_station2_basic has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: ================================================
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Total job queries 280, among them cache hits 204 (72.86%)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Tracking 34 distinct input hashes that result in 17 distinct outputs (50.00%)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: RAM used: 832.15 KiB of 819.20 MiB budget. Usage: 0.10%
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Shaders Compiled: 14
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Job execution time: average 1.51 s, max 1.56 s
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Job life time (pending + execution): average 1.56 s, max 1.61
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Shader code size: average 44.087 KiB, min 35.891 KiB, max 60.766 KiB
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.61 s
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 2.00 jobs/batch
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Average processing rate: 8.70 jobs/sec
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Total thread time: 6.845 s
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Total thread preprocess time: 3.033 s
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Percentage time preprocessing: 44.30%
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Effective parallelization: 4.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 11.20% of total time (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 11.12% of total time (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.94% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 10.83% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.58% of total time (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.11.14-04.11.38:018][102]LogShaderCompilers: Display: ================================================
+[2023.11.14-04.11.43:546][712]LogSlate: Window 'Message Log' being destroyed
+[2023.11.14-04.11.43:551][712]LogSlate: Window 'Message Log' being destroyed
+[2023.11.14-04.11.45:045][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cookie_station2_basic.cookie_station2_basic
+[2023.11.14-04.11.45:045][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cookie_station2_basic.cookie_station2_basic
+[2023.11.14-04.11.45:045][861]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/cookie_station2_basic.cookie_station2_basic as actor: StaticMeshActor /Game/Map/MainMap.MainMap:PersistentLevel.StaticMeshActor_23
+[2023.11.14-04.11.46:497][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cookie_station2_basic.cookie_station2_basic
+[2023.11.14-04.11.46:497][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cookie_station2_basic.cookie_station2_basic
+[2023.11.14-04.11.46:499][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/cookie_station2_basic.cookie_station2_basic as actor: StaticMeshActor /Game/Map/MainMap.MainMap:PersistentLevel.StaticMeshActor_24
+[2023.11.14-04.13.03:242][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.14-04.13.03:246][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-04.13.03:306][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.11.14-04.13.03:316][865]LogSavePackage: Moving output files for package: /Game/Map/MainMap
+[2023.11.14-04.13.03:317][865]LogSavePackage: Moving '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Saved/MainMap3DA07EF5488C17125DABEA8E60BA3612.tmp' to '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Map/MainMap.umap'
+[2023.11.14-04.13.03:321][865]LogFileHelpers: Saving map 'MainMap' took 0.035
+[2023.11.14-04.13.03:365][865]LogSavePackage: Moving output files for package: /Game/Assets/cookie_station2_basic
+[2023.11.14-04.13.03:365][865]LogSavePackage: Moving '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Saved/cookie_station2_basic7674768846B43EB799389A8461F883F7.tmp' to '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/cookie_station2_basic.uasset'
+[2023.11.14-04.13.03:380][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/orange_001" FILE="../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/orange_001.uasset" SILENT=true
+[2023.11.14-04.13.03:381][865]LogSavePackage: Moving output files for package: /Game/Assets/orange_001
+[2023.11.14-04.13.03:382][865]LogSavePackage: Moving '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Saved/orange_0010811B7224D6D203F39197FB2528070F6.tmp' to '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/orange_001.uasset'
+[2023.11.14-04.13.03:397][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/darkblue" FILE="../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/darkblue.uasset" SILENT=true
+[2023.11.14-04.13.03:398][865]LogSavePackage: Moving output files for package: /Game/Assets/darkblue
+[2023.11.14-04.13.03:398][865]LogSavePackage: Moving '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Saved/darkblue8D0486204F4BA6ED02365A9E54CD7F53.tmp' to '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/darkblue.uasset'
+[2023.11.14-04.13.03:413][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/black" FILE="../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/black.uasset" SILENT=true
+[2023.11.14-04.13.03:414][865]LogSavePackage: Moving output files for package: /Game/Assets/black
+[2023.11.14-04.13.03:414][865]LogSavePackage: Moving '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Saved/black0CE2309746449FD3CAD7D29E8D125F7C.tmp' to '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/black.uasset'
+[2023.11.14-04.13.03:429][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/darkerblue" FILE="../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/darkerblue.uasset" SILENT=true
+[2023.11.14-04.13.03:430][865]LogSavePackage: Moving output files for package: /Game/Assets/darkerblue
+[2023.11.14-04.13.03:430][865]LogSavePackage: Moving '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Saved/darkerblue767136EF45823B49F95ADC9E1945B381.tmp' to '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/darkerblue.uasset'
+[2023.11.14-04.13.03:446][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 761 ms)
+[2023.11.14-04.13.03:449][865]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.14-04.13.03:450][865]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map/MainMap.MainMap
+[2023.11.14-04.13.03:450][865]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/cookie_station2_basic.cookie_station2_basic
+[2023.11.14-04.13.03:450][865]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/orange_001.orange_001
+[2023.11.14-04.13.03:450][865]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/darkblue.darkblue
+[2023.11.14-04.13.03:450][865]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/black.black
+[2023.11.14-04.13.03:450][865]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/darkerblue.darkerblue
+[2023.11.14-04.17.05:988][752]LogDerivedDataCache: C:/Users/jehil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1378 files in 2383 folders with total size 100 MiB.
+[2023.11.14-04.31.38:460][899]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jehil\OneDrive\Desktop\BlenderLocal\CookieFactory\cookie_station3_basic.fbx)
+[2023.11.14-04.31.38:465][899]LogFbx: Loading FBX Scene from C:\Users\jehil\OneDrive\Desktop\BlenderLocal\CookieFactory\cookie_station3_basic.fbx
+[2023.11.14-04.31.38:469][899]LogFbx: FBX Scene Loaded Succesfully
+[2023.11.14-04.31.39:782][899]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.11.14-04.31.39:832][899]LogFbx: Display: Triangulating static mesh packing_Table
+[2023.11.14-04.31.39:841][899]LogStaticMesh: Display: Building static mesh cookie_station3_basic...
+[2023.11.14-04.31.39:848][899]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/cookie_station3_basic.cookie_station3_basic
+[2023.11.14-04.31.39:849][899]LogStaticMesh: Warning: cookie_station3_basic has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.11.14-04.31.39:849][899]LogStaticMesh: Warning: cookie_station3_basic has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.11.14-04.31.39:862][899]FBXImport: Warning: cookie_station3_basic has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.11.14-04.31.39:862][899]FBXImport: Warning: cookie_station3_basic has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: ================================================
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: Total job queries 348, among them cache hits 272 (78.16%)
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: Tracking 34 distinct input hashes that result in 17 distinct outputs (50.00%)
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: RAM used: 832.15 KiB of 819.20 MiB budget. Usage: 0.10%
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: Shaders Compiled: 14
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: Job execution time: average 1.51 s, max 1.56 s
+[2023.11.14-04.31.40:072][902]LogShaderCompilers: Display: Job life time (pending + execution): average 1.56 s, max 1.61
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Shader code size: average 44.087 KiB, min 35.891 KiB, max 60.766 KiB
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.61 s
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 2.00 jobs/batch
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Average processing rate: 8.70 jobs/sec
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Total thread time: 6.845 s
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Total thread preprocess time: 3.033 s
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Percentage time preprocessing: 44.30%
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Effective parallelization: 4.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 11.20% of total time (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 11.12% of total time (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.94% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 10.83% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.58% of total time (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2023.11.14-04.31.40:073][902]LogShaderCompilers: Display: ================================================
+[2023.11.14-04.31.41:692][ 85]LogSlate: Window 'Message Log' being destroyed
+[2023.11.14-04.31.41:696][ 85]LogSlate: Window 'Message Log' being destroyed
+[2023.11.14-04.31.45:409][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cookie_station3_basic.cookie_station3_basic
+[2023.11.14-04.31.45:409][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cookie_station3_basic.cookie_station3_basic
+[2023.11.14-04.31.45:409][503]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/cookie_station3_basic.cookie_station3_basic as actor: StaticMeshActor /Game/Map/MainMap.MainMap:PersistentLevel.StaticMeshActor_25
+[2023.11.14-04.31.46:613][642]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cookie_station3_basic.cookie_station3_basic
+[2023.11.14-04.31.46:613][642]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/cookie_station3_basic.cookie_station3_basic
+[2023.11.14-04.31.46:613][642]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/cookie_station3_basic.cookie_station3_basic as actor: StaticMeshActor /Game/Map/MainMap.MainMap:PersistentLevel.StaticMeshActor_26
+[2023.11.14-04.31.50:118][ 35]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/MainMap.MainMap:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Addition to navoctree)
+[2023.11.14-04.31.50:561][ 82]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Map/MainMap.MainMap:PersistentLevel.StaticMeshActor_26.StaticMeshComponent0, from: Remove from navoctree)
+[2023.11.14-04.32.14:359][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.14-04.32.14:363][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.14-04.32.14:419][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.11.14-04.32.14:431][747]LogSavePackage: Moving output files for package: /Game/Map/MainMap
+[2023.11.14-04.32.14:432][747]LogSavePackage: Moving '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Saved/MainMapCB8649AB4EFB921A503B2DA5E72B9DEB.tmp' to '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Map/MainMap.umap'
+[2023.11.14-04.32.14:438][747]LogFileHelpers: Saving map 'MainMap' took 0.035
+[2023.11.14-04.32.14:481][747]LogSavePackage: Moving output files for package: /Game/Assets/cookie_station3_basic
+[2023.11.14-04.32.14:481][747]LogSavePackage: Moving '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Saved/cookie_station3_basic0F7906CE4EDA78BE54C0EE8E572CBE39.tmp' to '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/cookie_station3_basic.uasset'
+[2023.11.14-04.32.14:496][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/green" FILE="../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/green.uasset" SILENT=true
+[2023.11.14-04.32.14:498][747]LogSavePackage: Moving output files for package: /Game/Assets/green
+[2023.11.14-04.32.14:498][747]LogSavePackage: Moving '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Saved/greenEE01946F4E42A4BE8764DE9A1BA44E3C.tmp' to '../../../../../../Users/jehil/OneDrive/Desktop/Github/Game-Off-2023/GameOff2023/Content/Assets/green.uasset'
+[2023.11.14-04.32.14:515][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 913 ms)
+[2023.11.14-04.32.14:517][747]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.14-04.32.14:517][747]LogContentValidation: Display: Validating /Script/Engine.World /Game/Map/MainMap.MainMap
+[2023.11.14-04.32.14:517][747]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/cookie_station3_basic.cookie_station3_basic
+[2023.11.14-04.32.14:517][747]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/green.green
+[2023.11.14-04.32.20:918][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.14-04.34.52:251][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
