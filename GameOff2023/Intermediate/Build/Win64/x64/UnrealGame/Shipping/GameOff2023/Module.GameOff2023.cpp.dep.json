@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tyler\\onedrive\\desktop\\github repos\\game-off-2023\\gameoff2023\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\gameoff2023\\module.gameoff2023.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tyler\\onedrive\\desktop\\github repos\\game-off-2023\\gameoff2023\\intermediate\\build\\win64\\x64\\gameoff2023\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\tyler\\onedrive\\desktop\\github repos\\game-off-2023\\gameoff2023\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\gameoff2023\\definitions.gameoff2023.h",
+            "c:\\users\\tyler\\onedrive\\desktop\\github repos\\game-off-2023\\gameoff2023\\intermediate\\source\\gameoff2023.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

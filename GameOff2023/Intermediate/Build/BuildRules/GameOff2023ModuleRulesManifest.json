@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Tyler\\OneDrive\\Desktop\\GitHub Repos\\Game-Off-2023\\GameOff2023\\Intermediate\\Source\\GameOff2023.Build.cs",
+		"C:\\Users\\Tyler\\OneDrive\\Desktop\\GitHub Repos\\Game-Off-2023\\GameOff2023\\Intermediate\\Source\\GameOff2023.Target.cs",
+		"C:\\Users\\Tyler\\OneDrive\\Desktop\\GitHub Repos\\Game-Off-2023\\GameOff2023\\Intermediate\\Source\\GameOff2023Client.Target.cs",
+		"C:\\Users\\Tyler\\OneDrive\\Desktop\\GitHub Repos\\Game-Off-2023\\GameOff2023\\Intermediate\\Source\\GameOff2023Editor.Target.cs",
+		"C:\\Users\\Tyler\\OneDrive\\Desktop\\GitHub Repos\\Game-Off-2023\\GameOff2023\\Intermediate\\Source\\GameOff2023Server.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
