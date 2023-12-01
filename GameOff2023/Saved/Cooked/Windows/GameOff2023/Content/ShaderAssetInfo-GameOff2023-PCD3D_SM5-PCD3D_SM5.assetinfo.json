@@ -367,6 +367,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
+			"Assets": [
+				"/Game/Materials/floorMat"
+			]
+		},
+		{
 			"ShaderMapHash": "2AE5C0AB677058B151304286BCABB0A5DB5E0C34",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
@@ -461,10 +467,10 @@
 				"/Game/Assets/dark_beige",
 				"/Game/Assets/darkblue",
 				"/Game/Assets/darkerblue",
-				"/Game/Assets/green",
+				"/Game/Assets/light_orange",
 				"/Game/Assets/lightbrown",
 				"/Game/Assets/metal",
-				"/Game/Assets/orange_001",
+				"/Game/Assets/orange_002",
 				"/Game/Assets/purple",
 				"/Game/Assets/red",
 				"/Game/Assets/white"
