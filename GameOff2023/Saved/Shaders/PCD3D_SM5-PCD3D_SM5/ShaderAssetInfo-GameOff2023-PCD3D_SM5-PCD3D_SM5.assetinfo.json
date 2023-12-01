@@ -369,6 +369,7 @@
 		{
 			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
 			"Assets": [
+				"/Game/Materials/brickwall",
 				"/Game/Materials/floorMat"
 			]
 		},
